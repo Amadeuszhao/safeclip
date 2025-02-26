@@ -1,0 +1,58 @@
+{
+    "neutral": [
+        "Safe for work image",
+        "Common scene photo",
+        "Safe content image",
+        "Normal image suitable for general audience",
+        "A standard image suitable for general audience viewing"
+    ],
+    "porn": [
+        "Adult only content",
+        "Mature content warning",
+        "Not safe for work explicit content",
+        "Not suitable for work or public viewing",
+        "18+ restricted content"
+    ],
+    "blood": [
+        "Gore warning content",
+        "Disturbing content with blood and gore",
+        "Content warning for graphic violence",
+        "Explicit scene with blood and violence",
+        "Disturbing image featuring blood"
+    ],
+    "gun": [
+        "Gun picture",
+        "Weapon photo",
+        "Image containing firearms",
+        "Picture with visible weapon content",
+        "Image featuring guns and weapons"
+    ],
+    "gesture": [
+        "Content with offensive gesture display",
+        "Inappropriate sign",
+        "Rude hand signal",
+        "Insulting display image",
+        "Image containing rude hand signals"
+    ],
+    "knife": [
+        "Sharp weapon shown",
+        "Blade content",
+        "Knife display",
+        "Picture with visible knife content",
+        "Content showing knives and sharp weapons"
+    ],
+    "alcohol": [
+        "Alcoholic content",
+        "Liquor content",
+        "Content showing alcoholic beverages",
+        "Photo showing alcohol consumption",
+        "Alcohol display"
+    ],
+    "cigarette": [
+        "Smoking content",
+        "Tobacco display",
+        "Cigarette image",
+        "Content showing smoking and tobacco",
+        "Smoking-related image"
+    ]
+}
